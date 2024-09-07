@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookBarn Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38382048f1d636b38f88a598fb664c6ffade92fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookBarn Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookBarn Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

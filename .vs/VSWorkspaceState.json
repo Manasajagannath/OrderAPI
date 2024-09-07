@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Book Barn",
+    "\\Book Barn\\BookBarn Api",
+    "\\Book Barn\\BookBarn Api\\BookBarn Api",
+    "\\Book Barn\\BookBarn Api\\BookBarn Api\\Controllers",
+    "\\Book Barn\\BookBarn Api\\BookBarn Api\\Migrations",
+    "\\Book Barn\\BookBarn Api\\BookBarn Api\\Model",
+    "\\Book Barn\\BookBarn Api\\BookBarn Api\\Properties"
+  ],
+  "SelectedNode": "\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.http",
+  "PreviewInSolutionExplorer": false
+}

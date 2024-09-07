@@ -140,3 +140,6 @@ C:\Training\Book Barn\BookBarn Api\BookBarn Api\obj\Debug\net8.0\refint\BookBarn
 C:\Training\Book Barn\BookBarn Api\BookBarn Api\obj\Debug\net8.0\BookBarn Api.pdb
 C:\Training\Book Barn\BookBarn Api\BookBarn Api\obj\Debug\net8.0\BookBarn Api.genruntimeconfig.cache
 C:\Training\Book Barn\BookBarn Api\BookBarn Api\obj\Debug\net8.0\ref\BookBarn Api.dll
+C:\Users\Manasadevi\Downloads\Book Barn 1\Book Barn\BookBarn Api\BookBarn Api\obj\Debug\net8.0\BookBarn Api.dll
+C:\Users\Manasadevi\Downloads\Book Barn 1\Book Barn\BookBarn Api\BookBarn Api\obj\Debug\net8.0\refint\BookBarn Api.dll
+C:\Users\Manasadevi\Downloads\Book Barn 1\Book Barn\BookBarn Api\BookBarn Api\obj\Debug\net8.0\BookBarn Api.pdb

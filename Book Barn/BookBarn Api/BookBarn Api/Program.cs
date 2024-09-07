@@ -24,6 +24,12 @@ namespace BookBarn_Api
             builder.Services.AddSwaggerGen();
             builder.Services.AddScoped<IOrdersRepository, OrdersRepository>();
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAllOrigins",
+                    builder => builder.AllowAnyOrigin().AllowAnyMethod.AllowAnyHeader());
+            })
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -34,7 +40,7 @@ namespace BookBarn_Api
             }
 
             app.UseHttpsRedirection();
-
+            app.UseCors("AllowAllOrigins");
             app.UseAuthorization();
 
 
