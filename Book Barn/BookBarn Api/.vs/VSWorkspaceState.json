@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookBarn Api",
+    "\\BookBarn Api\\Controllers",
+    "\\BookBarn Api\\Model",
+    "\\BookBarn Api\\Model\\Data",
+    "\\BookBarn Api\\Model\\Entities"
+  ],
+  "SelectedNode": "\\BookBarn Api\\Controllers\\OrdersController.cs",
+  "PreviewInSolutionExplorer": false
+}
