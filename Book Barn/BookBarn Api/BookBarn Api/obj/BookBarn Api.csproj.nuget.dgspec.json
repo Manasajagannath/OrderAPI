@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj": {}
+    "C:\\Users\\Aman.Tomar\\source\\BookBarn\\OrderAPI\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj": {}
   },
   "projects": {
-    "C:\\Training\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj": {
+    "C:\\Users\\Aman.Tomar\\source\\BookBarn\\OrderAPI\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj",
+        "projectUniqueName": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\OrderAPI\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj",
         "projectName": "BookBarn Api",
-        "projectPath": "C:\\Training\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj",
-        "packagesPath": "C:\\Users\\Shrutesh.Reddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Book Barn\\BookBarn Api\\BookBarn Api\\obj\\",
+        "projectPath": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\OrderAPI\\Book Barn\\BookBarn Api\\BookBarn Api\\BookBarn Api.csproj",
+        "packagesPath": "C:\\Users\\Aman.Tomar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\OrderAPI\\Book Barn\\BookBarn Api\\BookBarn Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Shrutesh.Reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aman.Tomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,7 +50,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
